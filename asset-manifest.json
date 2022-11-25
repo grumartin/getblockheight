@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getblockheight/static/css/main.073c9b0a.css",
+    "main.js": "/getblockheight/static/js/main.ea2483d2.js",
+    "static/js/787.41b47214.chunk.js": "/getblockheight/static/js/787.41b47214.chunk.js",
+    "index.html": "/getblockheight/index.html",
+    "main.073c9b0a.css.map": "/getblockheight/static/css/main.073c9b0a.css.map",
+    "main.ea2483d2.js.map": "/getblockheight/static/js/main.ea2483d2.js.map",
+    "787.41b47214.chunk.js.map": "/getblockheight/static/js/787.41b47214.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ea2483d2.js"
+  ]
+}
